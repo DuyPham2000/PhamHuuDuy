@@ -39,3 +39,5 @@ E:\Mã Nguồn Mở\NetCore\DemoMVC\obj\Debug\net5.0\DemoMVC.pdb
 E:\Mã Nguồn Mở\NetCore\DemoMVC\obj\Debug\net5.0\DemoMVC.genruntimeconfig.cache
 E:\Mã Nguồn Mở\NetCore\DemoMVC\obj\Debug\net5.0\DemoMVC.csproj.CopyComplete
 E:\Mã Nguồn Mở\NetCore\DemoMVC\obj\Debug\net5.0\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+E:\Mã Nguồn Mở\NetCore\DemoMVC\obj\Debug\net5.0\Razor\Views\HelloWorld\GetName.cshtml.g.cs
+E:\Mã Nguồn Mở\NetCore\DemoMVC\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
