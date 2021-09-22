@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using DemoMVC.Data;
+using DemoMVC.Models;
 
 namespace DemoMVC.Migrations
 {
